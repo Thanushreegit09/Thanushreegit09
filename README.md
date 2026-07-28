@@ -1,79 +1,115 @@
-# 👋 Hi, I'm Thanusree
+# <h1 align="center">Hi 👋, I'm Thanushree</h1>
 
-🎓 **MCA Student**  
-💻 Passionate about learning new technologies and building real-world projects.
+<h3 align="center">🎓 MCA Student | 💻 Aspiring Full Stack Developer | 🚀 Lifelong Learner</h3>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&size=24&pause=1000&color=00C4FF&center=true&vCenter=true&width=600&lines=Welcome+to+my+GitHub!;MCA+Student;Full+Stack+Developer+in+Progress;Python+%7C+Java+%7C+PHP;Always+Learning+Something+New+✨" alt="Typing SVG" />
+</p>
 
 ---
 
 ## 🌸 About Me
 
-- 🎓 MCA Student
-- 🌱 Currently learning Full Stack Development
-- 💡 Interested in Web Development and Problem Solving
-- 🚀 Always eager to learn new technologies
-- 📚 Improving my DSA skills
+<img align="right" alt="Coding" width="300" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif">
+
+🎓 MCA Student passionate about technology.
+
+🌱 Currently learning **Full Stack Development**
+
+💻 Love building websites and solving coding problems.
+
+📚 Improving **Data Structures & Algorithms (DSA)**.
+
+🚀 Goal: Become a skilled **Software Developer**.
+
+✨ Believe in continuous learning and self-improvement.
 
 ---
 
-## 🛠️ Skills
+## 🛠️ Tech Stack
 
-### 🌐 Web Technologies
-- HTML5
-- CSS3
-- PHP
+### 🌐 Frontend
+<p>
+<img src="https://skillicons.dev/icons?i=html,css" />
+</p>
 
 ### 💻 Programming Languages
-- Python
-- Java
+<p>
+<img src="https://skillicons.dev/icons?i=python,java,php" />
+</p>
 
-### 📚 Computer Science
-- Data Structures & Algorithms (DSA)
+### 🧰 Tools & Platforms
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,vscode" />
+</p>
 
-### 🔧 Tools
-- Git
-- GitHub
-
----
-
-## 🌱 Currently Learning
-
-- Advanced Python
-- Java Programming
-- DSA
-- Git & GitHub
-- Full Stack Web Development
+### 📚 Learning
+<p>
+<img src="https://skillicons.dev/icons?i=react,mysql" />
+</p>
 
 ---
 
 ## 📊 GitHub Stats
 
-![Thanusree's GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight)
+<p align="center">
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true"/>
+</p>
 
 ---
 
 ## 🔥 GitHub Streak
 
-![GitHub Streak](https://streak-stats.demolab.com?user=YOUR_GITHUB_USERNAME&theme=tokyonight)
+<p align="center">
+<img src="https://streak-stats.demolab.com?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true"/>
+</p>
 
 ---
 
-## 💻 Most Used Languages
+## 🏆 GitHub Trophies
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight)
-
----
-
-## 📫 Connect With Me
-
-- 💌 Email: your-email@example.com
-- 🐙 GitHub: https://github.com/YOUR_GITHUB_USERNAME
+<p align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=YOUR_GITHUB_USERNAME&theme=tokyonight&no-frame=true&margin-w=10&row=1"/>
+</p>
 
 ---
 
-## 💬 Quote
+## 📈 Profile Views
 
-> **"Success is the sum of small efforts, repeated day in and day out."**
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=Profile%20Views&color=0e75b6&style=flat" />
+</p>
 
 ---
 
-⭐ *"Keep Learning • Keep Building • Keep Growing"*
+## 🤝 Connect with Me
+
+<p align="left">
+<a href="https://github.com/YOUR_GITHUB_USERNAME">
+<img src="https://skillicons.dev/icons?i=github" width="45"/>
+</a>
+
+<a href="mailto:your-email@example.com">
+<img src="https://skillicons.dev/icons?i=gmail" width="45"/>
+</a>
+
+<a href="https://www.linkedin.com/in/YOUR_LINKEDIN_USERNAME">
+<img src="https://skillicons.dev/icons?i=linkedin" width="45"/>
+</a>
+</p>
+
+---
+
+## 💬 Favorite Quote
+
+> ✨ **"Success is the sum of small efforts, repeated day in and day out."**  
+> — *Robert Collier*
+
+---
+
+<h3 align="center">✨ Keep Learning • Keep Coding • Keep Growing 🚀</h3>
+
+<p align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C9FF,100:92FE9D&height=120&section=footer"/>
+</p>
